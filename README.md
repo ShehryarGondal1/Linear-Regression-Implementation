@@ -14,11 +14,9 @@ In Machine Learning, predicting the future is very important.
 <br>
 
 ![image](pic1.PNG)
-![image](pic2.PNG)
 ![image](pic3.PNG)
 ![image](pic4.PNG)
 ![image](pic5.PNG)
-![image](pic6.PNG)
 
 <br>
 
